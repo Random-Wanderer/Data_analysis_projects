@@ -3,7 +3,7 @@ Notebook questions for:
 Exploring crypto,
 Cookie cats A/B test,
 Old business analysis,
-World Bank SQL query 
+World Bank SQL query \
 Came from www.Datacamp.com
 
 
