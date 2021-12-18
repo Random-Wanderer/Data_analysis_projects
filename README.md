@@ -1,10 +1,11 @@
-# Data analysis
-- Document here the project: packgenproject
-- Description: Project Description
-- Data Source:
-- Type of analysis:
+# Notes
+Notebook questions for:
+Exploring crypto
+Cookie cats A/B test
+Old business analysis
+World Bank SQL query 
+Came from www.Datacamp.com
 
-Please document the project the better you can.
 
 # Startup the project
 
