@@ -1,10 +1,6 @@
 # Notes
-Notebook questions for:
-Exploring crypto,
-Cookie cats A/B test,
-Old business analysis,
-World Bank SQL query \
-Came from www.Datacamp.com
+Some of the Nnotebook questions from:
+www.Datacamp.com
 
 
 # Startup the project
