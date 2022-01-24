@@ -1,5 +1,5 @@
 # Notes
-Some of the Nnotebook questions from:
+Some of the notebook questions from:
 www.Datacamp.com
 
 
